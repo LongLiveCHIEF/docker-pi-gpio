@@ -23,8 +23,5 @@ develop-eggs
 ## Installer logs
 pip-log.txt
 
-## VSCode
-.vscode
-
 ## direnv
 .envrc
