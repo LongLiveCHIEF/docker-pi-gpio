@@ -1,3 +1,3 @@
-import dockergpio
+from dockergpio import ledOn
 
-dockergpio.ledOn("/dev/gpiochip0", 17)
+ledOn("/dev/gpiochip0", 17)
