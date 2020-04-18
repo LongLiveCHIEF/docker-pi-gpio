@@ -1,0 +1,30 @@
+# pyenv version file
+.python-version
+
+.venv
+
+# Python
+*.py[co]
+
+## Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+deb_dist
+develop-eggs
+.installed.cfg
+
+## Installer logs
+pip-log.txt
+
+## VSCode
+.vscode
+
+## direnv
+.envrc
